@@ -1402,6 +1402,7 @@
             </gridviewConfig>
             <symbian_position>0</symbian_position>
             <tooltip></tooltip>
+            <tc_position>0</tc_position>
             <TCBlockedUISkin>Skin Defaults</TCBlockedUISkin>
             <wapDirection>0</wapDirection>
             <spa_blockedUISkin>Skin Defaults</spa_blockedUISkin>
@@ -4161,7 +4162,7 @@
                 <htmlcontent></htmlcontent>
                 <methodID>get</methodID>
                 <type>4</type>
-                <url>http://www.google.co.in</url>
+                <url>http://in.yahoo.com</url>
             </browseData>
             <onSuccess_root>
                 <evtSequence>
@@ -4241,6 +4242,7 @@
             <ipad_screenlevelWidget>true</ipad_screenlevelWidget>
             <symbian_enable_zoom>true</symbian_enable_zoom>
             <symbian_screenlevelWidget>true</symbian_screenlevelWidget>
+            <blackberry10_enableZoom>false</blackberry10_enableZoom>
             <android_screenLevelWidget>false</android_screenLevelWidget>
             <winMobile_screenlevelWidget>true</winMobile_screenlevelWidget>
             <winphone8_screenlevelwidget>false</winphone8_screenlevelwidget>

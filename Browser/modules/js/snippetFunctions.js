@@ -121,7 +121,6 @@ function onSuccessCallback(){
 	{
 			frmInLineBrowser.btnInlineForward.skin="sknBtnNormalSampleApp";	
 	}
-	
 }
 
 /****************************************************************************************
@@ -161,6 +160,7 @@ function goBack(){
 	if(frmInLineBrowser.brwInline.canGoBack()==true){
 		frmInLineBrowser.brwInline.goBack();
 		}
+	//handleRequestCallback();
 }
 /****************************************************************************************
 *	Name    : goForward
@@ -173,6 +173,7 @@ function goForward(){
 	if(frmInLineBrowser.brwInline.canGoForward()==true){
 		frmInLineBrowser.brwInline.goForward();
 		}
+		//handleRequestCallback();
 }
 
 /****************************************************************************************

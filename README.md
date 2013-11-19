@@ -13,6 +13,7 @@ This Application will showcase the features of Browser widget.
  * iPhone
  * Windows 7.5
  * Windows 8
+ * Blackberry
  * SPA iPhone
  * SPA Android
  
