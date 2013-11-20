@@ -16,6 +16,7 @@ This Application will showcase the features of Browser widget.
  * Blackberry
  * SPA iPhone
  * SPA Android
+ * SPA Blackberry
  
  
 ***Tablet***
