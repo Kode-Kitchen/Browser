@@ -2055,6 +2055,7 @@ This area will contain everything that will be visible through a web browser, su
             <ipad_screenlevelWidget>true</ipad_screenlevelWidget>
             <symbian_enable_zoom>true</symbian_enable_zoom>
             <symbian_screenlevelWidget>true</symbian_screenlevelWidget>
+            <blackberry10_enableZoom>false</blackberry10_enableZoom>
             <android_screenLevelWidget>false</android_screenLevelWidget>
             <winMobile_screenlevelWidget>true</winMobile_screenlevelWidget>
             <winphone8_screenlevelwidget>false</winphone8_screenlevelwidget>
@@ -2116,6 +2117,8 @@ This area will contain everything that will be visible through a web browser, su
             </evtSequence>
         </bb10_onEscape10_root>
         <bb10_softkeyMode>FORM_ADJUST_RESIZE</bb10_softkeyMode>
+        <bb10_showbottomactionbar>true</bb10_showbottomactionbar>
+        <bb10_enablepeekgesture>true</bb10_enablepeekgesture>
     </children>
     <children xsi:type="kMenuContainer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <ID></ID>
