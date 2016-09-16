@@ -25,3 +25,4 @@ This Application will showcase the features of Browser widget.
  * Windows 8
  * SPA iPad
  * SPA Android
+Certified4KonyCommunity7.1.1 
